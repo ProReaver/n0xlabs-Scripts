@@ -1,4 +1,4 @@
-::This script was created by Noah Boyer to help mitigate the issues with QB where the database connector does not launch correctly. This should help to restart the services associated in order to hopefully help with it getting stuck on the port. I have also allowed all ports for the quickbooks applications on the local firewall to also help with the port getting stuck. 
+::This script was created by BLANK to help mitigate the issues with QB where the database connector does not launch correctly. This should help to restart the services associated in order to hopefully help with it getting stuck on the port. I have also allowed all ports for the quickbooks applications on the local firewall to also help with the port getting stuck. 
 
 powershell -window hidden -command ""
 @ECHO Off
